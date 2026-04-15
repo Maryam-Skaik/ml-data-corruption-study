@@ -156,7 +156,7 @@ This project highlights an important practical insight:
 ## 📂 Project Structure
 
 ```
-├── notebook.ipynb
+├── ml_data_corruption_study.ipynb
 ├── README.md
 ```
 
